@@ -1,0 +1,25 @@
+body {
+	text-align: left;
+	background-color: #FFFFCC;
+}
+
+.container {
+	padding: 5px;
+}
+
+.intro {
+	display: grid;
+	margin: 0px 100px;
+	padding: 0px 100px;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+}
+
+#title {
+	Background-color: #FFFF99;
+}
+
+#details {
+	Background-color: #FFFFCC;
+}
+	
